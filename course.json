@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Introduction to Javascript",
+    "instructor": "Joz Cameron",
+    "thumbnail": "https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/what-is-javascript-used-for.png",
+    "description": "Successful Negotiation: Master Your Negotiating Skills",
+    "enrollmentStatus": "Open",
+    "duration": "8 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to React",
+        "content": "Overview of React Native, setting up your development environment."
+      },
+      {
+        "week": 2,
+        "topic": "Create React Project",
+        "content": "Creating a simple mobile app using React Native components."
+      },
+      {
+        "week": 3,
+        "topic": "Building a Website",
+        "content": "Creating a simple mobile app using React Native components."
+      },
+      {
+        "week": 4,
+        "topic": "Deploy Your Project",
+        "content": "Creating a simple mobile app using React Native components."
+      }
+    ]
+  },
+  {
+    "name": "Introduction to React",
+    "instructor": "John Doe",
+    "thumbnail": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/1279225/retina_1708x683_0521-react-redux-and-immutablejs-Waldek_Newsletter-993b50f4ae56e9ee6e024a309c23a6c4.png",
+    "description": "Successful Negotiation: Master Your Negotiating Skills",
+    "enrollmentStatus": "Open",
+    "duration": "10 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to React",
+        "content": "Overview of React Native, setting up your development environment."
+      },
+      {
+        "week": 2,
+        "topic": "Create React Project",
+        "content": "Creating a simple mobile app using React Native components."
+      },
+      {
+        "week": 3,
+        "topic": "Building a Website",
+        "content": "Creating a simple mobile app using React Native components."
+      },
+      {
+        "week": 4,
+        "topic": "Deploy Your Project",
+        "content": "Creating a simple mobile app using React Native components."
+      }
+    ]
+  },
+  {
+    "name": "Advanced React JS",
+    "instructor": "Sadek Mir",
+    "thumbnail": "https://miro.medium.com/v2/resize:fit:1400/0*C6DuaAkiosiM0sHR.png",
+    "description": "Successful Negotiation: Master Your Negotiating Skills",
+    "enrollmentStatus": "Open",
+    "duration": "12 weeks",
+    "schedule": "Tuesdays and Thursdays, 6:00 PM - 8:00 PM",
+    "location": "Online",
+    "prerequisites": ["Basic JavaScript knowledge", "Familiarity with React"],
+    "syllabus": [
+      {
+        "week": 1,
+        "topic": "Introduction to React",
+        "content": "Overview of React Native, setting up your development environment."
+      },
+      {
+        "week": 2,
+        "topic": "Create React Project",
+        "content": "Creating a simple mobile app using React Native components."
+      },
+      {
+        "week": 3,
+        "topic": "Building a Website",
+        "content": "Creating a simple mobile app using React Native components."
+      },
+      {
+        "week": 4,
+        "topic": "Deploy Your Project",
+        "content": "Creating a simple mobile app using React Native components."
+      }
+    ]
+  }
+]
